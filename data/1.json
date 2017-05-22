@@ -1,0 +1,29 @@
+[
+	{
+		"id":"news4",
+		"nav_element":"Noticia 4",
+		"titulo":"Martin Scorsese, obligado a rodar de nuevo su película porque el dedo del cámara salía en todos los planos",
+		"desc":"Martin Scorsese ha sufrido un serio contratiempo durante el rodaje de su nueva película. El aclamado director comprobó nada más sentarse en la sala de montaje que el dedo del cámara salía en todos los planos, por lo que ahora está obligado a rodar todo otra vez. “Es un revés muy grande, ya nos habíamos pasado de presupuesto y ahora se nos irá al triple de lo previsto”",
+		"datetime":"19/05/2017 12:00",
+		"imgmid":"img/scorsese.jpg",
+		"imgbig":"a"
+	},
+	{
+		"id":"news5",
+		"nav_element":"Noticia 5",
+		"titulo":"Rajoy sale ileso tras explotar un plasma Samsung",
+		"desc":"El presidente del Gobierno, Mariano Rajoy, ha salido ileso de la tremenda explosión de un plasma Samsung, desde el cual unos periodistas seguían su comparecencia. Rajoy no se ha percatado del incidente hasta media hora después.",
+		"datetime":"05/05/2017 14:00",
+		"imgmid":"img/plasma.jpg",
+		"imgbig":"b"
+	},
+	{
+		"id":"news6",
+		"nav_element":"Noticia 6",
+		"titulo":"Hallan un exoplaneta con posibilidades de albergar dinero de los Pujol",
+		"desc":"Un equipo de astrónomos del Centro Harvard Smithsonian de Astrofísica descubrió ayer un exoplaneta que podría ser prometedor en la búsqueda de dinero de los Pujol más allá de nuestro Sistema Solar. Esta nueva supertierra es la mejor candidata hasta ahora para albergar dinero negro gracias a un potente campo magnético que facilita las transferencias del 3%",
+		"datetime":"15/05/2017 15:00",
+		"imgmid":"img/planetapujol.jpg",
+		"imgbig":"c"
+	}
+]

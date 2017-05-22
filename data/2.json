@@ -1,0 +1,29 @@
+[
+   {
+      "id":"news7",
+      "nav_element":"Noticia 7",
+      "titulo":"Crean perros plegables mediante ingeniería genética",
+      "desc":"Se ven obligados a plegarse a las exigencias del hombre, y nunca mejor dicho”. Así de contundente se ha expresado Dolores Parmalat, portavoz de la asociación PETA en España, a través del foro de su página web. “Pues Estamos Todos Apañados”, ha replicado en ese mismo foro el genetista catalán Roger Masdéu.",
+      "datetime":"01/05/2017 3:00",
+      "imgmid":"img/perretes.jpg",
+      "imgbig":"a"
+   },
+   {
+      "id":"news8",
+      "nav_element":"Noticia 8",
+      "titulo":"Julio Iglesias llega a las mil millones de reproducciones fuera de YouTube",
+      "desc":"El cantante español Julio Iglesias ha hecho historia al alcanzar hoy la cifra de mil millones de reproducciones fuera de YouTube, superando a todas las estrellas de este portal de vídeos. El artista confirma que lleva años dedicándose al “follower”, incluso antes de que existiera internet",
+      "datetime":"12/05/2017 9:00",
+      "imgmid":"img/julioiglesias.jpg",
+      "imgbig":"b"
+   },
+   {
+      "id":"news9",
+      "nav_element":"Noticia 9",
+      "titulo":"Ryanair plastifica sus billetes por si el avión cae al agua y se mojan",
+      "desc":"Ryanair ha anunciado hoy que empezará a plastificar los billetes por si el avión se cae al agua y se mojan. La aerolínea irlandesa se ha visto obligada a adoptar esta medida después de recibir numerosas quejas de algunos pasajeros, que cada vez que su avión sufría un accidente y caía al mar no podían hacer reclamaciones porque los billetes sin plastificar quedaban inservibles.",
+      "datetime":"21/05/2017 17:00",
+      "imgmid":"img/avion.jpg",
+      "imgbig":"c"
+   }
+]
