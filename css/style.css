@@ -207,10 +207,10 @@ footer .glyphicon {
     }
     .main-container{
         font-size: 15px;
-        margin-right: 300px;
+        margin-right: 250px;
     }
     .publicidadD {
-        position: absolute;
+        position: fixed;
         width: 300px;
         margin-bottom: 1%;
         margin-top: 1%;
