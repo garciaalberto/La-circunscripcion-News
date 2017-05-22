@@ -7,8 +7,8 @@ nav {
     background-color: #455A64;
     z-index: 9999;
     border: 0;
-    font-size: 12px !important;
-    line-height: 1.42857143 !important;
+    font-size: 12.5px !important;
+    line-height: 1 !important;
     letter-spacing: 2px;
 }
 
@@ -210,13 +210,14 @@ footer .glyphicon {
         margin-right: 300px;
     }
     .publicidadD {
-        float: right;
+        position: absolute;
         width: 300px;
         margin-bottom: 1%;
         margin-top: 1%;
+        margin-left: 77% !important;
         height: 98%;
         background-color: red;
-        margin-left: 1%;
+
     }
     .publicidadM {
         display: none;
