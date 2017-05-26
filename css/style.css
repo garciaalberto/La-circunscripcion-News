@@ -1,5 +1,5 @@
 nav {
-	background-color: #1C1C1C;
+    background-color: #1C1C1C;
 }
 
 .navbar {
@@ -16,7 +16,8 @@ nav {
     height: 100%;
 }
 
-.navbar li a, .navbar .navbar-brand {
+.navbar li a,
+.navbar .navbar-brand {
     color: white !important;
 }
 
@@ -24,8 +25,8 @@ nav {
     color: #455A64 !important;
     background-color: #455A64 !important;
 }
-	
-.navbar-nav li a:hover{
+
+.navbar-nav li a:hover {
     color: #fff !important;
     background-color: #607D8B !important;
 }
@@ -39,8 +40,8 @@ nav {
     color: #607D8B !important;
 }
 
-.navbar-brand img{
-	width: 30%;
+.navbar-brand img {
+    width: 30%;
     margin-top: -10px;
 }
 
@@ -52,110 +53,111 @@ nav {
     border-radius: 8px;
 }
 
-#stats p{
-	margin-top: 15px;
+#stats p {
+    margin-top: 15px;
 }
 
-#login {
+#login {}
 
-}
-
-.stats .glyphicon, footer .glyphicon {
+.stats .glyphicon,
+footer .glyphicon {
     font-size: 250%;
     margin-bottom: 20px;
     color: white;
     vertical-align: middle;
 }
 
-
-
-
 .noticias {
-	margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
-.noticias h1, .noticias h2, .noticias h3, .noticias h4{
-	font-weight: bold;
+.noticias h1,
+.noticias h2,
+.noticias h3,
+.noticias h4 {
+    font-weight: bold;
 }
 
-.noticias h1, .noticias h2 {
-	padding-top: 5px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-	color: white;
+.noticias h1,
+.noticias h2 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: white;
 }
 
 .jumbotron h2 a {
-	color: white;
+    color: white;
 }
 
 .jumbotron h2 a:hover {
-	color: #fff;
+    color: #fff;
 }
 
-.jumbotron .datetime{
-	color:white;
-	text-align: right;
-	margin-bottom: 10px;
-	padding-right: 10px;
-	font-size: 12px;
-	font-style: italic;
+.jumbotron .datetime {
+    color: white;
+    text-align: right;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+    font-style: italic;
 }
 
-.datetime .glyphicon{
-	color: black;
+.datetime .glyphicon {
+    color: black;
 }
 
-.noticias .read{
-	text-align: right;
-	margin-top: 10px;
-	padding-right: 10px;
-	font-style: italic;
-	font-weight: bold;
+.noticias .read {
+    text-align: right;
+    margin-top: 10px;
+    padding-right: 10px;
+    font-style: italic;
+    font-weight: bold;
 }
 
-.noticias .read a{
-	color: white;
+.noticias .read a {
+    color: white;
 }
 
 .informacion {
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .informacion ul li {
-	margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .declaraciones {
-	font-style: italic;
-	color: #6E6E6E;
-	font-size: 14px;
+    font-style: italic;
+    color: #6E6E6E;
+    font-size: 14px;
 }
 
-.imagen, .media {
-	margin-bottom: 10px;
+.imagen,
+.media {
+    margin-bottom: 10px;
 }
 
-.btn{
-	background-color: #607D8B;
-	color: #fff;
+.btn {
+    background-color: #607D8B;
+    color: #fff;
 }
 
 .btn:hover {
-	background-color: #455A64;
-	color: white;
+    background-color: #455A64;
+    color: white;
 }
 
 .btn:focus {
-	background-color: #455A64;
-	color: #fff;
+    background-color: #455A64;
+    color: #fff;
 }
 
 footer {
-	margin-top: 35px;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	background-color: #455A64;
+    margin-top: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #455A64;
     color: #fff;
 }
 
@@ -165,17 +167,16 @@ footer .glyphicon {
     color: white;
 }
 
+
 /*Tested with iPhone 6 Plus*/
 
 @media (max-width: 960px) {
-
     .jumbotron {
         background-color: #607D8B;
         color: #fff;
         padding: 100px 25px;
         border: 2px solid #455A64;
         border-radius: 8px;
-
     }
     .publicidadD {
         display: none;
@@ -189,10 +190,10 @@ footer .glyphicon {
     }
 }
 
+
 /*Tested with my Laptop*/
 
 @media (min-width: 961px) {
-
     .jumbotron {
         background-color: #607D8B;
         color: #fff;
@@ -200,11 +201,11 @@ footer .glyphicon {
         border: 2px solid #455A64;
         border-radius: 8px;
     }
-    #inicio{
+    #inicio {
         margin-right: 315px;
         margin-left: 15px;
     }
-    .main-container{
+    .main-container {
         font-size: 15px;
         margin-right: 250px;
     }
@@ -216,9 +217,11 @@ footer .glyphicon {
         margin-left: 77% !important;
         height: 98%;
         background-color: red;
-
     }
     .publicidadM {
         display: none;
+    }
+    .btn {
+        margin-right: 17%;
     }
 }
