@@ -1,8 +1,11 @@
 # La-circunscripcion-News
 
-Las notcias han sido extraídas de varias fuentes como:
+Las notícias han sido extraídas de varias fuentes como:
+
 ·http://www.elmundotoday.com/
+
 ·http://cnnespanol.cnn.com/2017/03/07/lanzamiento-de-misiles-de-corea-del-norte-fue-practica-para-atacar-bases-de-ee-uu-en-japon-segun-medios-estatales/
+
 ·La imaginación tanto mía como de mis compañeros que me han ayudado.
 
 Me he basado en el periódico EL PAIS para el título y descripción.
