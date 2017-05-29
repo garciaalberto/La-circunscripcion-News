@@ -12,7 +12,7 @@ $(document).ready(function(){
 			scroll = false;
 			$(this).html("<span class=\"glyphicon glyphicon-circle-arrow-down\"></span> Scrolling Automático");
 		}
-	    
+
 	});
 
 	$("#more-news").click(function(){
@@ -23,7 +23,7 @@ $(document).ready(function(){
 			cargarJSON(i+1);
 			i++;
 			$("#more-news").hide();
-		} 
+		}
 	});
 
 	$(window).scroll(function(){
@@ -39,8 +39,8 @@ $(document).ready(function(){
 		}
 	});
 
-	$.fn.scrollBottom = function() { 
-		return $(document).height() - this.scrollTop() - this.height(); 
+	$.fn.scrollBottom = function() {
+		return $(document).height() - this.scrollTop() - this.height();
 	};
 
 	function cargarJSON(i){
@@ -86,13 +86,8 @@ $(document).ready(function(){
 		section.appendTo(noticia_container);
      	noticia_container.appendTo('.main-container');
 
-     	a.attr('href', '#'+item.id);
-     	a.text(item.nav_element);
-     	a.appendTo(li);
-     	li.appendTo(".nav");
-
      	estados++;
-     }); 
+     });
 }
 
 });
