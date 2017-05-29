@@ -182,11 +182,12 @@ footer .glyphicon {
         display: none;
     }
     .publicidadM {
-        margin-top: 15%;
-        width: 98%;
         margin-left: 1%;
-        margin-right: 1%;
-        height: 90px;
+        margin-top: 15%;
+    }
+
+    .publicidadM img{
+      width: 98%;
     }
 }
 
@@ -214,7 +215,7 @@ footer .glyphicon {
         width: 300px;
         margin-bottom: 1%;
         margin-top: 1%;
-        margin-left: 77% !important;
+        margin-left: 78% !important;
         height: 98%;
         background-color: red;
     }
