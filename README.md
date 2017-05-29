@@ -19,4 +19,4 @@ Luego al leer la documentación de bootstrap y todo lo que se podía hacer con e
 Más tarde añadí el botón de cargar más noticias (y el de scrolling automático o manual) y la sección de arriba con botones y el logo del planeta (Reusado de mi lunar lander).
 
 
-# Por algún motivo el JSON no carga en Chrome pero en Mozilla (que es dónde he estado testeando todo el tiempo) funciona perfectamente. Adjunto prueba
+Por algún motivo el JSON no carga en el Chrome de Linux.
