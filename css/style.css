@@ -70,6 +70,17 @@ footer .glyphicon {
     color: white;
 }
 
+.noticias .back {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+.noticias .back a {
+    color: white;
+}
+
 .informacion {
     margin-bottom: 20px;
 }
