@@ -16,6 +16,8 @@ La idea que tena inicialmente (la que hice el primer día) era muy diferente al 
 
 Luego al leer la documentación de bootstrap y todo lo que se podía hacer con esta decidí meter las noticias en un Jumbotron para que quedara más rollo diario (Y eso fué lo que te enseñé que me dijiste que tenía que cambiar para seguir las exigencias del cliente)
 
-Más tarde añadí el botón de cargar más noticias (y el de scrolling automático o manual) y el logo del planeta (Reusado de mi lunar lander).
+[Y aquí las fotos del segundo boceto, también si ves que tal, sin presiones.]
+
+Más tarde añadí el botón de cargar más noticias y el de scrolling automático o manual y el logo del planeta (Reusado de mi lunar lander).
 
 Por algún motivo el JSON no carga en el Chrome de Linux.
