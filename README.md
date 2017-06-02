@@ -12,11 +12,9 @@ Me he basado en el periódico EL PAIS para el título y descripción.
 
 La idea que tena inicialmente (la que hice el primer día) era muy diferente al resultado final, pues el primer día no tenía ni idea de que se podía hacer con bootstrap ni nada.
 
-[Tendría que acordarme a insertar los bocetos por aquí, sería un detalle de pureza]
-
 Luego al leer la documentación de bootstrap y todo lo que se podía hacer con esta decidí meter las noticias en un Jumbotron para que quedara más rollo diario (Y eso fué lo que te enseñé que me dijiste que tenía que cambiar para seguir las exigencias del cliente)
 
-[Y aquí las fotos del segundo boceto, también si ves que tal, sin presiones.]
+![Esquema](https://github.com/garciaalberto/La-circunscripcion-News/blob/master/img/Esquema.png)
 
 Más tarde añadí el botón de cargar más noticias y el de scrolling automático o manual y el logo del planeta (Reusado de mi lunar lander).
 
